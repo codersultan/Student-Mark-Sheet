@@ -1,0 +1,2 @@
+// getStudentData(studentData);
+getSubjectResult(studentData);
